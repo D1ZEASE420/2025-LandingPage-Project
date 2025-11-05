@@ -1,6 +1,6 @@
 # 2025-LandingPage-Project
 
-# 🌐 Coming Soon Page – Location-based Multiplayer Game
+# 🌐 Coming Soon Page – Own It!
 
 ## 🎯 Eesmärk
 Luua 3 päeva jooksul **puhas, funktsionaalne ja responsive “Coming Soon” leht**, mis tutvustab vanemate kursuste lõputöö projekti:  
