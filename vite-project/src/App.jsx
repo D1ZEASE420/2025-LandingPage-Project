@@ -12,11 +12,10 @@ function App() {
 
   return (
     <>
-    <div className="flex flex-col items-center">
+<div className="flex flex-col items-center">
       <img src={logo} alt="Logo" />
-      <p className="mt-4 text-center text-5xl font-medium pt-100 pb-100">
-        Real time with <span className="text-blue-600">Real people</span>
-      </p>
+      <p className="mt-4 text-center text-5xl font-medium pt-155 pb-0">Real time with</p>
+      <p className="text-center text-5xl font-medium text-blue-600 mt-5 pb-100">Real people</p>
     </div>
     <div class="flex justify-center flex-col items-center">
       <h1 class="text-4xl font-semibold pb-10 ">Either host or Join</h1>
