@@ -15,6 +15,13 @@ function App() {
         Real time with <span className="text-blue-600">Real people</span>
       </p>
     </div>
+    <div class="flex-initial shadow-xl">
+      <h2 class="text-4x1 font-bold">Either host or Join</h2>
+        <button class="flex justify-center rounded-xl text-lg shadow-md">CREATE GAME</button>
+        <p class="text-lg">OR</p>
+        <p class="text-lg">JOIN GAME</p>
+      <button class="flex justify-center rounded-xl text-lg shadow-md">ENTER PIN</button>
+    </div>
     </>
   )
 }
