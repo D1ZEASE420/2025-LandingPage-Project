@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import logo from './assets/logo.png'
 import './App.css'
 
 function App() {
@@ -8,7 +9,12 @@ function App() {
 
   return (
     <>
-    <h1 className='text-5xl text-blue-500'>tere</h1>
+    <div className="flex flex-col items-center">
+      <img src={logo} alt="Logo" />
+      <p className="mt-4 text-center text-5xl font-medium pt-100 pb-100">
+        Real time with <span className="text-blue-600">Real people</span>
+      </p>
+    </div>
     </>
   )
 }
