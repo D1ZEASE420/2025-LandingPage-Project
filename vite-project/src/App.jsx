@@ -67,6 +67,23 @@ function App() {
         </div>
       </section>
 
+      <section>
+          <div class="flex justify-center border-1 border-neutral-200 w-200 h-200 flex-col items-center">
+            <div class="flex justify-center flex-col items-center">
+              <h1 class="text-4xl font-semibold">CHOOSE</h1>
+              <p class="text-xl font-medium pb-5">Your <span class="text-center text-xl font font-medium mt-5 pb-100">Powerup</span></p>
+            <div class="flex-row flex-col">
+              <button class="flex justify-center rounded-xl text-2xl p-5 m-2 font-semibold shadow-lg border-1 border-neutral-200 h-30 w-40">Extra Points</button>
+              <button class="flex justify-center rounded-xl text-2xl p-7 m-2 font-semibold shadow-lg border-1 border-neutral-200 h-30 w-40">Point Bot</button>
+            <div class="flex-row flex-col">
+                <button class="flex justify-center rounded-xl text-2xl p-10 m-2 font-semibold shadow-lg border-1 border-neutral-200 h-30 w-40">OverPower</button>
+                <button class="flex justify-center rounded-xl text-2xl p-10 m-2 font-semibold shadow-lg border-1 border-neutral-200 h-30 w-40">Steal</button>     
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section className="snap-start h-screen flex justify-center flex-col items-center bg-white">
         <p className="text-2xl font-semibold text-center mb-12">Coming soon</p>
         <div className="flex justify-center gap-6">
