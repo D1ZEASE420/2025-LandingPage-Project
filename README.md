@@ -11,7 +11,7 @@ Leht peab tekitama huvi ja andma esmamulje projektist professionaalsel viisil.
 ---
 
 ## 🧱 Tehnoloogia
-- **Framework:** Vue 3  
+- **Framework:** React  
 - **CSS Framework:** Tailwind CSS  
 - **Disain:** Mobile-first, minimalistlik ja selge hierarhiaga  
 
