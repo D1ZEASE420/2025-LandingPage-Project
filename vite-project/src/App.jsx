@@ -27,10 +27,13 @@ function App() {
     </div>
     <div>
       <h1 class="text-4xl font-semibold pt-155 text-center">Choose</h1>
-      <p className="mt-4 text-center text-2xl font-medium pb-100">where you play <br></br>in the <span className="text-blue-600">real world</span></p>
+      <p className="mt-4 text-center text-2xl font-medium pb-5">where you play <br></br>in the <span className="text-blue-600">real world</span></p>
     </div>
     </div>
+    <div class="flex justify-center">
     <div class="w-100 h-100 border-1 border-neutral-200 rounded-2xl flex justify-center flex-col items-center shadow-lg">
+      <img src="" alt="" />
+    </div>
     </div>
     <div>
       <p class="text-2xl font-semibold flex justify-center text-center pt-5">Coming soon</p>
