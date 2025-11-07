@@ -35,4 +35,9 @@ Leht peab tekitama huvi ja andma esmamulje projektist professionaalsel viisil.
 <img width="1242" height="2208" alt="image" src="https://github.com/user-attachments/assets/7b947a70-2fe6-4956-b8a7-9651184d6742" />
 
 - Koodiga alustamine
+- Põhiliste asjade lisamine
 
+### PÄEV 3 -
+
+- koodiga jätkamine
+- Live deploy üritamine
